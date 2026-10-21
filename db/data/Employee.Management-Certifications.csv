@@ -1,0 +1,6 @@
+CertID,Title,Provider,ValidUntil,IssuedAt
+aaaa1111-1111-1111-1111-111111111111,SAP Certified Development Associate - CAP,SAP,2028-12-31,2026-01-15
+bbbb2222-2222-2222-2222-222222222222,SAP Certified Development Associate - UI5,SAP,2028-06-30,2026-02-20
+cccc3333-3333-3333-3333-333333333333,AWS Certified Cloud Practitioner,AWS,2029-03-31,2026-03-10
+dddd4444-4444-4444-4444-444444444444,Microsoft Azure Fundamentals,Microsoft,2029-05-31,2026-04-05
+eeee5555-5555-5555-5555-555555555555,Oracle SQL Certification,Oracle,2028-09-30,2026-05-12

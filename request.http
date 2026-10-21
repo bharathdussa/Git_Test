@@ -1,0 +1,14 @@
+###
+POST http://localhost:4004/odata/v4/esma/AssignSkill
+Content-Type: application/json
+
+{
+    
+    "employeeID": "11111111-1111-1111-1111-111111111111",
+    "skillID": "dddddddd-dddd-dddd-dddd-dddddddddddd",
+    "proficiencyLevel": 7
+
+}
+
+###
+GET http://localhost:4004/odata/v4/esma/EmployeeSkills
