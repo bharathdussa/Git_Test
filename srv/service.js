@@ -21,7 +21,7 @@ module.exports = cds.service.impl(function () {
 
         const {
             employeeID,
-            skillID2,
+            skillID,
             proficiencyLevel
         } = req.data;
 
