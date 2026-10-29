@@ -2,7 +2,7 @@ using { Employee.Management as db } from '../db/schema';
 
 @path: '/odata/v4/esma'
 service ESMAService {
-
+    /** this is dev  this is qa*/
     entity Employees as projection on db.Employees;
     entity Skills as projection on db.Skills;
     entity EmployeeSkills as projection on db.EmployeeSkills;
